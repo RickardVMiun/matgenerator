@@ -49,6 +49,7 @@ body {
     display: flex;
     width: 60%;
     flex-wrap:wrap;
+    
 }
 
 #monday, #tuesday, #wednesday, #thursday, #friday, #saturday, #sunday{
@@ -59,12 +60,20 @@ body {
     margin-top: 10px;
     background-color: darkslategray;
     border-radius: 20px;
+    height: auto;
+}
+
+#mondayingredient, #tuesdayingredient, #wednesdayingredient, #thursdayingredient, #fridayingredient, #saturdayingredient, #sundayingredient{
+    text-decoration: underline;
+    color: lightcoral;
+    
 }
 
 
 
 #mondaydish, #tuesdaydish, #wednesdaydish, #thursdaydish, #fridaydish, #saturdaydish, #sundaydish{
     padding-top: 5px;
+    height: 2em;
 }
 
 #mondayimage, #tuesdayimage, #wednesdayimage, #thursdayimage, #fridayimage, #saturdayimage, #sundayimage{
@@ -117,4 +126,8 @@ h2{
     font-weight: 400;
     color:lightgoldenrodyellow;
 
+}
+
+#igredienslink{
+    font-size: 1em;
 }
