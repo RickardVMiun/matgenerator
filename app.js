@@ -1,108 +1,142 @@
 const weekfood = [
 {
-    "dish": "Korv och makaroner"
+    "dish": "Korv och makaroner",
+    "image": "https://i.imgur.com/5lyTCoV.jpg"
 },
 {
-    "dish": "Spaghetti och köttfärsås"
+    "dish": "Spaghetti och köttfärsås",
+    "image": "https://i.imgur.com/5MnJ3iE.jpg"
 },
 {
-    "dish": "Gulashsoppa"
+    "dish": "Gulashsoppa",
+    "image": "https://i.imgur.com/i8QgWwr.jpg"
 },
 {
-    "dish": "Lasagne"
+    "dish": "Lasagne",
+    "image": "https://i.imgur.com/9ukynfp.jpg"
 },
 {
-    "dish": "Korvstroganoff"
+    "dish": "Korvstroganoff",
+    "image": "https://i.imgur.com/uUxwXWK.jpg"
 },
 {
-    "dish": "Baconpasta"
+    "dish": "Baconpasta",
+    "image": "https://i.imgur.com/6HghI5O.jpg"
 },
 {
-    "dish": "Lax med potatis"
+    "dish": "Lax med potatis",
+    "image": "https://i.imgur.com/BgRZnx2.jpg"
 },
 {
-    "dish": "Köttbullar med makaroner"
+    "dish": "Köttbullar med makaroner",
+    "image": "https://i.imgur.com/JfwiTIa.jpg"
 },
 {
-    "dish": "Tacos"
+    "dish": "Tacos",
+    "image": "https://i.imgur.com/AKYyxKG.jpg"
 },
 {
-    "dish": "Korv med stuvade makaroner"
+    "dish": "Korv med stuvade makaroner",
+    "image": "https://i.imgur.com/5lyTCoV.jpg"
 },
 {
-    "dish": "Potatisbullar"
+    "dish": "Potatisbullar",
+    "image": "https://i.imgur.com/9zaViHm.jpg"
 },
 {
-    "dish": "Krämig carbonara"
+    "dish": "Krämig carbonara",
+    "image": "https://i.imgur.com/aghtRXK.jpg"
 },
 {
-    "dish": "Raggmunk med fläsk"
+    "dish": "Raggmunk med fläsk",
+    "image": "https://i.imgur.com/FFQVYXY.jpg"
 },
 {
-    "dish": "Flygande Jacob"
+    "dish": "Flygande Jacob",
+    "image": "https://i.imgur.com/WbDqrzf.jpeg"
 },
 {
-    "dish": "Fläskpannkaka"
+    "dish": "Fläskpannkaka",
+    "image": "https://i.imgur.com/hJ7XmeP.jpg"
 },
 {
-    "dish": "Baconlindad kycklingfilé i ugn"
+    "dish": "Baconlindad kycklingfilé i ugn",
+    "image": "https://i.imgur.com/SLIH4MT.jpg"
 },
 {
-    "dish": "Köttfärsbiffar med gräddsås"
+    "dish": "Köttfärsbiffar med gräddsås",
+    "image": "https://i.imgur.com/TEPcdwc.jpg"
 },
 {
-    "dish": "Makaronipudding med falukorv"
+    "dish": "Makaronipudding med falukorv",
+    "image": "https://i.imgur.com/vbW8THN.jpg"
 },
 {
-    "dish": "Klassisk makaronipudding"
+    "dish": "Klassisk makaronipudding",
+    "image": "https://i.imgur.com/vbW8THN.jpg"
 },
 {
-    "dish": "Kyckling i paprikasås"
+    "dish": "Kyckling i paprikasås",
+    "image": "https://i.imgur.com/xbfy9fq.jpg"
 },
 {
-    "dish": "Pannkaka"
+    "dish": "Pannkaka",
+    "image": "https://i.imgur.com/08Tg5Q8.jpg"
 },
 {
-    "dish": "Kasslergratäng"
+    "dish": "Kasslergratäng",
+    "image": "https://i.imgur.com/B2UwFnb.jpg"
 },
 {
-    "dish": "Hamburgare"
+    "dish": "Hamburgare",
+    "image": "https://i.imgur.com/DZKAvOn.jpg"
 },
 {
-    "dish": "Broccolisoppa"
+    "dish": "Broccolisoppa",
+    "image": "https://i.imgur.com/QFgcp8D.jpg"
 },
 {
-    "dish": "Hemgjort pizza"
+    "dish": "Hemgjord pizza",
+    "image": "https://i.imgur.com/lKodFX0.jpg"
 },
 {
-    "dish": "Omelett med ost och skinka"
+    "dish": "Omelett med ost och skinka",
+    "image": "https://i.imgur.com/I7czfFY.jpg"
 },
 {
-    "dish": "Köttfärsbiffar i timjansås"
+    "dish": "Köttfärsbiffar i timjansås",
+    "image": "https://i.imgur.com/gCwRpi2.jpg"
 },
 {
-    "dish": "Crepes med räkfyllning"
+    "dish": "Crepes med räkfyllning",
+    "image": "https://i.imgur.com/yGetYmt.jpg"
 },
 {
-    "dish": "Chili con carne"
+    "dish": "Chili con carne",
+    "image": "https://i.imgur.com/2OhGWh4.jpg"
 }
 ]
 
 const weekendfood = [
 {
     "dish": "Fläskfilé med potatis",
+    "image": "https://i.imgur.com/IV9Dzah.jpg"
 },
 {
-    "dish": "Kyckling med mögelostsås"
+    "dish": "Kyckling med mögelostsås",
+    "image": "https://i.imgur.com/QMyHvJM.jpeg"
 },
 {
-    "dish": "Biffar med ris och tzatziki"
+    "dish": "Biffar med ris och tzatziki",
+    "image": "https://i.imgur.com/P7pVEwu.jpg"
 },
 {
-    "dish": "Köttfärslimpa med potatis"
+    "dish": "Köttfärslimpa med potatis",
+    "image": "https://i.imgur.com/NCyeUHr.jpg"
 },
 {
-    "dish": "Fläskfilégryta med champinjoner"
+    "dish": "Fläskfilégryta med champinjoner",
+    "image": "https://i.imgur.com/NSdEjkm.jpg"
 }
 ]
 
@@ -131,12 +165,25 @@ while(weekendarr.length < 2){
 }
 console.log(weekendarr);
     document.querySelector('#mondaydish').innerHTML = weekfood[weekarr[0]].dish;
+    document.querySelector('#mondayimage').src = weekfood[weekarr[0]].image;
+
     document.querySelector('#tuesdaydish').innerHTML = weekfood[weekarr[1]].dish;
+    document.querySelector('#tuesdayimage').src = weekfood[weekarr[1]].image
+
     document.querySelector('#wednesdaydish').innerHTML = weekfood[weekarr[2]].dish;
+    document.querySelector('#wednesdayimage').src = weekfood[weekarr[2]].image
+
     document.querySelector('#thursdaydish').innerHTML = weekfood[weekarr[3]].dish;
+    document.querySelector('#thursdayimage').src = weekfood[weekarr[3]].image
+
     document.querySelector('#fridaydish').innerHTML = weekfood[weekarr[4]].dish;
+    document.querySelector('#fridayimage').src = weekfood[weekarr[4]].image
+
     document.querySelector('#saturdaydish').innerHTML = weekendfood[weekendarr[0]].dish;
+    document.querySelector('#saturdayimage').src = weekendfood[weekendarr[0]].image
+
     document.querySelector('#sundaydish').innerHTML = weekendfood[weekendarr[1]].dish;
+    document.querySelector('#sundayimage').src = weekendfood[weekendarr[1]].image
   }
 
   console.log("js found");

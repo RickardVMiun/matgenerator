@@ -27,9 +27,6 @@ body {
     display: flex;
     justify-content: center;
     padding: 15px;
-    
-
-    
 }
 
 #generatebutton{
@@ -57,15 +54,22 @@ body {
 #monday, #tuesday, #wednesday, #thursday, #friday, #saturday, #sunday{
     padding: 25px;
     justify-content: left;
+    flex-basis: 100px;
     width: 100%;
     margin-top: 10px;
     background-color: darkslategray;
     border-radius: 20px;
-    
 }
+
+
 
 #mondaydish, #tuesdaydish, #wednesdaydish, #thursdaydish, #fridaydish, #saturdaydish, #sundaydish{
     padding-top: 5px;
+}
+
+#mondayimage, #tuesdayimage, #wednesdayimage, #thursdayimage, #fridayimage, #saturdayimage, #sundayimage{
+    margin-top: 25px;
+    border-radius: 12px;
 }
 
 
@@ -79,6 +83,16 @@ body {
 
     #monday, #tuesday, #wednesday, #thursday, #friday, #saturday, #sunday {
         width: 100%;
+    }
+}
+
+@media screen and (max-width: 1400px){
+    #matinformation{
+       
+    }
+
+    #bild{
+           
     }
 }
 
