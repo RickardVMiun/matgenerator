@@ -27,11 +27,66 @@ const weekfood = [
     "dish": "Tacos"
 },
 {
-    "dish": "Stuvade makaroner med korv"
+    "dish": "Korv med stuvade makaroner"
 },
 {
     "dish": "Potatisbullar"
-}]
+},
+{
+    "dish": "Krämig carbonara"
+},
+{
+    "dish": "Raggmunk med fläsk"
+},
+{
+    "dish": "Flygande Jacob"
+},
+{
+    "dish": "Fläskpannkaka"
+},
+{
+    "dish": "Baconlindad kycklingfilé i ugn"
+},
+{
+    "dish": "Köttfärsbiffar med gräddsås"
+},
+{
+    "dish": "Makaronipudding med falukorv"
+},
+{
+    "dish": "Klassisk makaronipudding"
+},
+{
+    "dish": "Kyckling i paprikasås"
+},
+{
+    "dish": "Pannkaka"
+},
+{
+    "dish": "Kasslergratäng"
+},
+{
+    "dish": "Hamburgare"
+},
+{
+    "dish": "Broccolisoppa"
+},
+{
+    "dish": "Hemgjort pizza"
+},
+{
+    "dish": "Omelett med ost och skinka"
+},
+{
+    "dish": "Köttfärsbiffar i timjansås"
+},
+{
+    "dish": "Crepes med räkfyllning"
+},
+{
+    "dish": "Chili con carne"
+}
+]
 
 const weekendfood = [
 {
@@ -45,7 +100,11 @@ const weekendfood = [
 },
 {
     "dish": "Köttfärslimpa med potatis"
-}]
+},
+{
+    "dish": "Fläskfilégryta med champinjoner"
+}
+]
 
 document.addEventListener("DOMContentLoaded", function(){
     generateFood();
