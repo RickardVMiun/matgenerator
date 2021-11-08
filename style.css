@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0 auto;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: darkgrey;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    background-color: darkslategray;
+    color: white;
+    padding: 20px;
+}
+
+#buttondiv {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    
+
+    
+}
+
+#generatebutton{
+    background-color: white;
+    border: none;
+  color: darkslategray;
+  font-weight: bolder;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+#main-wrapper{
+    padding: 5px;
+    display: flex;
+    width: 60%;
+    flex-wrap:wrap;
+}
+
+#monday, #tuesday, #wednesday, #thursday, #friday, #saturday, #sunday{
+    padding: 25px;
+    justify-content: left;
+    width: 100%;
+    margin-top: 10px;
+    background-color: darkslategray;
+    border-radius: 20px;
+    
+}
+
+#mondaydish, #tuesdaydish, #wednesdaydish, #thursdaydish, #fridaydish, #saturdaydish, #sundaydish{
+    padding-top: 5px;
+}
+
+
+
+/* queries */
+
+@media screen and (max-width: 480px){
+    #main-wrapper{
+        width: 100%;
+    }
+
+    #monday, #tuesday, #wednesday, #thursday, #friday, #saturday, #sunday {
+        width: 100%;
+    }
+}
+
+
+
+/* specifik days */
+
+
+
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.7em;
+    margin-top: 15px;
+    color: white;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color:lightgoldenrodyellow;
+
+}
