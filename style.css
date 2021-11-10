@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: darkgrey;
+    background-image: linear-gradient(to right, #159957 , #155799);
 }
 
 #header {
@@ -63,10 +63,18 @@ body {
     height: auto;
 }
 
+#monday:hover{
+    background-color: #155799
+}
+
 #mondayingredient, #tuesdayingredient, #wednesdayingredient, #thursdayingredient, #fridayingredient, #saturdayingredient, #sundayingredient{
-    text-decoration: underline;
-    color: lightcoral;
-    
+    color: white;
+}
+
+
+#ptagingrediens{
+    color: #2980B9;
+    font-size: medium;
 }
 
 
