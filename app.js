@@ -12,137 +12,137 @@ const weekfood = [
 {
     "dish": "Gulashsoppa",
     "image": "https://i.imgur.com/i8QgWwr.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/gulaschsoppa-med-kottfars-712852/"
 },
 {
     "dish": "Lasagne",
     "image": "https://i.imgur.com/9ukynfp.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/klassisk-lasagne-679675/"
 },
 {
     "dish": "Korvstroganoff",
     "image": "https://i.imgur.com/uUxwXWK.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/korvstroganoff-med-ris-533512/"
 },
 {
     "dish": "Baconpasta",
     "image": "https://i.imgur.com/6HghI5O.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/baconpasta-med-spenat-724851/"
 },
 {
     "dish": "Lax med potatis",
     "image": "https://i.imgur.com/BgRZnx2.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.tasteline.com/recept/stekt-lax-med-citrongraddsas-och-kokt-potatis/"
 },
 {
     "dish": "Köttbullar med makaroner",
     "image": "https://i.imgur.com/JfwiTIa.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.kungsornen.se/recept/makaroner-och-kottbullar/"
 },
 {
     "dish": "Tacos",
     "image": "https://i.imgur.com/AKYyxKG.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.tasteline.com/recept/tacos-med-kottfars/"
 },
 {
     "dish": "Korv med stuvade makaroner",
     "image": "https://i.imgur.com/5lyTCoV.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/falukorv-med-stuvade-makaroner-725260/"
 },
 {
     "dish": "Potatisbullar",
     "image": "https://i.imgur.com/9zaViHm.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.koket.se/potatisbullar-med-bacon-och-lingon"
 },
 {
     "dish": "Krämig carbonara",
     "image": "https://i.imgur.com/aghtRXK.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/kramig-carbonara-722780/"
 },
 {
     "dish": "Raggmunk med fläsk",
     "image": "https://i.imgur.com/FFQVYXY.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/raggmunk-med-flask-721803/"
 },
 {
     "dish": "Flygande Jacob",
     "image": "https://i.imgur.com/WbDqrzf.jpeg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/flygande-jacob-717569/"
 },
 {
     "dish": "Fläskpannkaka",
     "image": "https://i.imgur.com/hJ7XmeP.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/flaskpannkaka-712880/"
 },
 {
     "dish": "Baconlindad kycklingfilé i ugn",
     "image": "https://i.imgur.com/SLIH4MT.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/baconlindad-kycklingfile-i-ugn-724406/"
 },
 {
     "dish": "Köttfärsbiffar med gräddsås",
     "image": "https://i.imgur.com/TEPcdwc.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.mytaste.se/recept/köttfärsbiffar-med-fetaost-och-världens-godaste-gräddsås-963788640"
 },
 {
     "dish": "Makaronipudding med falukorv",
     "image": "https://i.imgur.com/vbW8THN.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/makaronipudding-med-korv-722482/"
 },
 {
     "dish": "Klassisk makaronipudding",
     "image": "https://i.imgur.com/vbW8THN.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/klassisk-makaronipudding-715080/"
 },
 {
     "dish": "Kyckling i paprikasås",
     "image": "https://i.imgur.com/xbfy9fq.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.mygreatrecipes.se/recipe/kyckling-med-paprikasas"
 },
 {
     "dish": "Pannkaka",
     "image": "https://i.imgur.com/08Tg5Q8.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/pannkakor-grundsmet-2083/"
 },
 {
     "dish": "Kasslergratäng",
     "image": "https://i.imgur.com/B2UwFnb.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.arla.se/recept/kasslergratang/"
 },
 {
     "dish": "Hamburgare",
     "image": "https://i.imgur.com/DZKAvOn.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/hamburgare-712808/"
 },
 {
     "dish": "Broccolisoppa",
     "image": "https://i.imgur.com/QFgcp8D.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/busenkel-broccolisoppa-712859/"
 },
 {
     "dish": "Hemgjord pizza",
     "image": "https://i.imgur.com/lKodFX0.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/hembakt-pizza-pa-italienskt-vis-713095/"
 },
 {
     "dish": "Omelett med ost och skinka",
     "image": "https://i.imgur.com/I7czfFY.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.arla.se/recept/omelett-med-ost-och-skinka/"
 },
 {
     "dish": "Köttfärsbiffar i timjansås",
     "image": "https://i.imgur.com/gCwRpi2.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.arla.se/recept/kottfarsbiffar-i-timjansas/"
 },
 {
     "dish": "Crepes med räkfyllning",
     "image": "https://i.imgur.com/yGetYmt.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://receptfavoriter.se/recept/crepes-med-raekor.html"
 },
 {
     "dish": "Chili con carne",
     "image": "https://i.imgur.com/2OhGWh4.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/chili-con-carne-424/"
 }
 ]
 
@@ -150,27 +150,27 @@ const weekendfood = [
 {
     "dish": "Fläskfilé med potatis",
     "image": "https://i.imgur.com/IV9Dzah.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.mat.se/recept/flaskfile-med-rastekt-potatis-och-vitlokssmor"
 },
 {
-    "dish": "Kyckling med mögelostsås",
+    "dish": "Kyckling med ädelostsås",
     "image": "https://i.imgur.com/QMyHvJM.jpeg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/kyckling-och-adelostsas-487656/"
 },
 {
     "dish": "Biffar med ris och tzatziki",
     "image": "https://i.imgur.com/P7pVEwu.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/farsbiffar-med-ris-och-tzatziki-726718/"
 },
 {
     "dish": "Köttfärslimpa med potatis",
     "image": "https://i.imgur.com/NCyeUHr.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/kottfarslimpa-med-graddsas-723129/"
 },
 {
     "dish": "Fläskfilégryta med champinjoner",
     "image": "https://i.imgur.com/NSdEjkm.jpg",
-    "ingredienter": "https://www.ica.se/recept/spaghetti-och-kottfarssas-712805/"
+    "ingredienter": "https://www.ica.se/recept/flaskfilegryta-med-champinjoner-724256/"
 }
 ]
 
