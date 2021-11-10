@@ -56,7 +56,7 @@ const weekfood = [
 },
 {
     "dish": "Krämig carbonara",
-    "image": "https://i.imgur.com/aghtRXK.jpg",
+    "image": "https://i.imgur.com/E5H5KWs.jpg",
     "ingredienter": "https://www.ica.se/recept/kramig-carbonara-722780/"
 },
 {
