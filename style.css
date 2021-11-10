@@ -44,6 +44,12 @@ body {
   border-radius: 25px;
 }
 
+#generatebutton:hover{
+    background-color: wheat;
+}
+
+
+
 #main-wrapper{
     padding: 5px;
     display: flex;
@@ -51,6 +57,8 @@ body {
     flex-wrap:wrap;
     
 }
+
+
 
 #monday, #tuesday, #wednesday, #thursday, #friday, #saturday, #sunday{
     padding: 25px;
@@ -63,8 +71,9 @@ body {
     height: auto;
 }
 
-#monday:hover{
-    background-color: #155799
+#monday:hover, #tuesday:hover, #wednesday:hover, #thursday:hover, #friday:hover, #saturday:hover, #sunday:hover{
+    /* background-color: #155799 */
+    background-image: linear-gradient(to right, #155799 ,#159957 );
 }
 
 #mondayingredient, #tuesdayingredient, #wednesdayingredient, #thursdayingredient, #fridayingredient, #saturdayingredient, #sundayingredient{
@@ -73,7 +82,7 @@ body {
 
 
 #ptagingrediens{
-    color: #2980B9;
+    color: whitesmoke;
     font-size: medium;
 }
 
